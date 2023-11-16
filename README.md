@@ -1,4 +1,4 @@
-# Predicting Wildfire Features Based on Weather and Climate Statistics
+# Predicting Wildfire Area Based on Weather and Climate Statistics
 
 ## Project Overview
 This project focuses on predicting various features of wildfires, such as fire area, brightness, radiative power, and count of fires per day, using weather and climate statistics. The study is crucial in understanding the impact of climate change on the increasing frequency and severity of wildfires.
